@@ -1,8 +1,5 @@
-### Hi there 👋, My name is Atharva
-#### Partner Success Engineering Intern @Nimbbl | Frontend Dev | Blockchain, DevOps, Product & Startup Enthusiast
-![Partner Success Engineering Intern @Nimbbl | Frontend Dev | Blockchain, DevOps, Product & Startup Enthusiast](https://github.com/atharvashinde01/atharvashinde01/images/banner.png)
-
-I am a partner success engineer, helping merchants integrate and solve queries. I have been a frontend developer at 2 companies previously. I have worked on multiple project using React and currently building few full-stacks and blockchain applications.
+### Hey Folks, I am Atharva Shinde
+#### Product Management Intern @Phyllo | Ex Partner Success Engineering Intern @Nimbbl | Ex Frontend Dev @FusionTech & @FuseBytes | AI/ML, Blockchain, DevOps | Tech Generalist & Startup Enthusiast
 
 Skills: Frontend - React, Backend - Node, DevOps, Machine Learning - Python, CNN, GAN
 
