@@ -58,7 +58,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvashinde01&label=Who's%20viewing%20my%20profile?%20DM%20me%20on%20any%20of%20social%20media!%20%F0%9F%AB%A3&color=0e75b6&style=flat" alt="atharvashinde01" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atharvashinde01&label=Who's%20viewing%20my%20profile?%20DM%20me%20on%20any%20of%20social%20media!%20%F0%9F%AB%A3&color=0e75b6&style=flat" alt="atharvashinde01" /> </p>
 
 ###
 
